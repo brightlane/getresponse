@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://brightlane.github.io/getresponse/sitemap.xml
